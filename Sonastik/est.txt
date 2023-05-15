@@ -1,0 +1,10 @@
+﻿Programm
+Operatsioonisüsteem
+Moodul
+Saatetekst
+Käsk
+Funktsioon
+Kood
+Statistika
+Kopeerimine
+BlokingKask
